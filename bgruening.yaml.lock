@@ -88,6 +88,7 @@ tools:
   owner: bgruening
   revisions:
   - 196795831b6a
+  - c4f865bd101a
   tool_panel_section_label: Annotation
 - name: blobtoolkit
   owner: bgruening
