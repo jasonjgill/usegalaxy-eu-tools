@@ -98,6 +98,7 @@ tools:
   owner: iuc
   revisions:
   - 2c7ac12ad75a
+  - 3c6e0e8df873
   tool_panel_section_label: Annotation
 - name: fgsea
   owner: iuc
@@ -991,6 +992,7 @@ tools:
   - 2b2a352488fa
   - 33b7d8481a76
   - 3edba9afc9bc
+  - 5c55448d0f33
   - f11b994b7eb2
   - f8564b2d7f63
   tool_panel_section_label: Assembly
@@ -1501,6 +1503,7 @@ tools:
   owner: iuc
   revisions:
   - 05ee0a74faef
+  - 0cfb4f06d047
   - 24d024316465
   - 288db50d1fb9
   - 524d31add34a
@@ -1616,10 +1619,12 @@ tools:
   - 425dab0e057b
   - a9c9d768b751
   - bf0cb5dd02f2
+  - d1f62024a08b
   tool_panel_section_label: FASTA/FASTQ
 - name: bbtools_bbmerge
   owner: iuc
   revisions:
+  - 1af48f9cc27b
   - 5d8b93c0731f
   - 6d084528a6f1
   - 82ced0e47b9d
@@ -1631,6 +1636,7 @@ tools:
   revisions:
   - 20aef74d20a1
   - 654c9da47f74
+  - cbc75076778f
   - e4fb34b79770
   - eaeb387d1244
   tool_panel_section_label: FASTA/FASTQ
@@ -1652,6 +1658,7 @@ tools:
   - c053d4cad713
   - c5e2e5902201
   - de6cebe3c043
+  - fe74900d6dc7
   tool_panel_section_label: FASTA/FASTQ
 - name: fasta_compute_length
   owner: devteam
@@ -2028,6 +2035,7 @@ tools:
 - name: seqkit_fx2tab
   owner: iuc
   revisions:
+  - 1dc73570fd5a
   - 4cf00d20acab
   - 7dd90df319f6
   - b1b12eaebfa9
@@ -2036,6 +2044,7 @@ tools:
 - name: seqkit_locate
   owner: iuc
   revisions:
+  - 5fb2dc40c4de
   - 642d73815dd1
   - 6510652376b1
   - 7e30613be1c6
@@ -2045,6 +2054,7 @@ tools:
   revisions:
   - 191738d53912
   - 54a954ee64d4
+  - 812705bcf39c
   - d85bac8b166a
   - fe1ae2ebf63d
   tool_panel_section_label: FASTA/FASTQ
@@ -2777,6 +2787,7 @@ tools:
   - 6d532d760950
   - 73b8cb5bddcd
   - 83c573f2e73c
+  - a363ba287b88
   - d1d39c72b755
   tool_panel_section_label: Graph/Display Data
 - name: xy_plot
@@ -3466,6 +3477,7 @@ tools:
   owner: iuc
   revisions:
   - 3171f7f52576
+  - 3f94a2e3d513
   - 517464809c33
   - 6d44c9f1a42b
   - 7f19559b8b55
@@ -3500,6 +3512,7 @@ tools:
   - a6d65b0c67af
   - a9d4f71dbfb0
   - cd659e8cc5fa
+  - d5ceb9f3c25b
   - f6877ad76b00
   tool_panel_section_label: Mapping
 - name: bowtie_color_wrappers
@@ -3517,6 +3530,7 @@ tools:
   owner: devteam
   revisions:
   - 01ac0a5fedc3
+  - 2477830927ec
   - 3fe632431b68
   - 64f11cf59c6e
   - 8d2a528a9513
@@ -6611,6 +6625,7 @@ tools:
   - 425dab0e057b
   - a9c9d768b751
   - bf0cb5dd02f2
+  - d1f62024a08b
   tool_panel_section_label: FASTA/FASTQ
 - name: diamond
   owner: bgruening
@@ -7599,6 +7614,7 @@ tools:
   revisions:
   - 1e9a43cbf524
   - 4d4df9779b7b
+  - 863ab6ebcafc
   tool_panel_section_label: Proteomics
 - name: proteinortho
   owner: iuc
@@ -8352,6 +8368,7 @@ tools:
   - 8eb8750070d4
   - 914cfcba0ec8
   - ae618321f34a
+  - cbf488da3b2c
   - cef79931dda5
   - dd4df992d93d
   - eba36e001f45
@@ -9135,6 +9152,7 @@ tools:
   - 20cfb9f3dded
   - 35bc2eb568ed
   - 3e4e1cf73d98
+  - 4d8f983cd751
   - 6acb08931836
   - 6f2d2c7f77ee
   - 6f83f8fd381f
@@ -9161,6 +9179,7 @@ tools:
   - a72e9faea895
   - a97abb8cd15b
   - b409c2486353
+  - d636ce5cde16
   - e62673c32a5d
   - f87ed6503715
   tool_panel_section_label: Single-cell
@@ -9181,6 +9200,7 @@ tools:
   - c5d3684f7c4c
   - cc0deb593fc8
   - e4c99c83dfbf
+  - f54f0f0598ad
   tool_panel_section_label: Single-cell
 - name: scanpy_normalize
   owner: iuc
@@ -9197,6 +9217,7 @@ tools:
   - ab55fe8030b6
   - c9cb76cf8d6c
   - d7ea9b5e6df1
+  - d844935c906c
   - ec32793ce1dd
   - ed64c90a9b93
   tool_panel_section_label: Single-cell
@@ -9217,6 +9238,7 @@ tools:
   - cb18f2388815
   - dbbe1ea8ecb1
   - e4c0f5ee8e17
+  - f7446fd8d5e7
   tool_panel_section_label: Single-cell
 - name: scanpy_remove_confounders
   owner: iuc
@@ -9233,6 +9255,7 @@ tools:
   - a89ee42625ad
   - bf2017df9837
   - c2ef03559dc6
+  - c65fce500915
   - d18e7a6e5cd4
   - f2f6c703da06
   tool_panel_section_label: Single-cell
@@ -9662,6 +9685,7 @@ tools:
 - name: bbtools_callvariants
   owner: iuc
   revisions:
+  - 66b138a2e74c
   - 8eace8923202
   - adec76ebc868
   - b955346ef41e
@@ -10242,6 +10266,7 @@ tools:
   revisions:
   - 1d4f065fa0ef
   - 30fc9f2bcbe4
+  - 3242dbeea69c
   - b4b6b660293a
   tool_panel_section_label: Variant Calling
 - name: jasminesv
